@@ -10,9 +10,9 @@ An is an addon for the [Ledger](https://github.com/TSLedger/ledger) Project. Led
 
 ## Addon Features
 
+- TODO: Change
 - **Log Filtering**: Filter events based on the the severity.
 - **Log Format**: Utilize template string variables to customize the output to files.
-- **Log Rotation**: Automatically rotate and delete events on a scheduled cadence.
 
 ### Basic Usage
 
